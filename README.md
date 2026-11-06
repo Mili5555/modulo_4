@@ -54,7 +54,7 @@ Se identificaron diferencias en la extensión de la cobertura de nieve entre las
 
 **Mapa interactivo y archivos:**
 
-🗺️ [Ver mapa interactivo – Cobertura de Nieve en el Valle de las Lágrimas](https://mili5555.github.io/modulo_4/qgis2web_2026_11_06-17_19_33_593044/index.html)
+🗺️ [Ver mapa interactivo – Valle de las Lágrimas](https://mili5555.github.io/modulo_4/qgis2web_2026_11_06-17_19_33_593044/qgis2web_2026_11_06-17_19_33_593044/index.html)
 
 📦 [Descargar archivos de la Actividad 2 (ZIP)](./qgis2web_2026_11_06-17_19_33_593044.zip)
 
